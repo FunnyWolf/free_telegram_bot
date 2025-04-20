@@ -1,0 +1,6 @@
+name = "viperrtpbot"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+TELEGRAM_BOT_TOKEN = ""  # 需要填入你的Telegram Bot Token
